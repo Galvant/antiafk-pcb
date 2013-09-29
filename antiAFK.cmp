@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Tue 26 Mar 2013 08:44:58 AM EDT
+
+BeginCmp
+TimeStamp = /5151175C;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51510F6D;
+Reference = C2;
+ValeurCmp = 18pF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51510F7C;
+Reference = C3;
+ValeurCmp = 18pF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5151196E;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51512114;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /514F7725;
+Reference = D1;
+ValeurCmp = ZENER;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /514F7734;
+Reference = D2;
+ValeurCmp = ZENER;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51510D9D;
+Reference = IC1;
+ValeurCmp = ATMEGA16U4;
+IdModule  = TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /514F76CC;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = USB_MINI_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /514F76DB;
+Reference = L1;
+ValeurCmp = INDUCTOR;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /515197F4;
+Reference = P1;
+ValeurCmp = CONN_3X2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51510F5E;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51511625;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5151248E;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /514F7772;
+Reference = R4;
+ValeurCmp = 22;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /514F7781;
+Reference = R5;
+ValeurCmp = 22;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51512551;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /51510F4F;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = SM1206;
+EndCmp
+
+EndListe
